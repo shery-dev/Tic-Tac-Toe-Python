@@ -48,8 +48,3 @@ Play against another player on a visual game board instead of just the console.
 
 Pull requests are welcome! Feel free to fork this project and improve the game.
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
