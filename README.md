@@ -1,7 +1,7 @@
 # 🎮 Tic Tac Toe in Python
 
 A fun and interactive **Tic Tac Toe** game built in Python 🐍 with a graphical interface.
-Play against another player on a visual game board instead of just the console.
+Play against another player on a visual game board instead of just the console..
 
 ---
 
