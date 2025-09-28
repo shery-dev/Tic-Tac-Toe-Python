@@ -35,15 +35,6 @@ Play against another player on a visual game board instead of just the console.
 
 ---
 
-## 📸 Screenshot (Optional)
-
-*Add a screenshot of your game window here.*
-For example:
-
-```
-![Tic Tac Toe Screenshot](screenshot.png)
-```
-
 ---
 
 ## 📚 Technologies Used
