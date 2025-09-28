@@ -1,2 +1,64 @@
-# Tic-Tac-Toe-Python
-A fun and interactive **Tic Tac Toe** game built in Python 🐍 with a graphical interface. Unlike simple console versions, this project provides a **visual game board** where players can click to place their moves (X and O). It’s a great beginner-friendly project demonstrating game logic, GUI programming, and clean code structure.
+# 🎮 Tic Tac Toe in Python
+
+A fun and interactive **Tic Tac Toe** game built in Python 🐍 with a graphical interface.
+Play against another player on a visual game board instead of just the console.
+
+---
+
+## ✨ Features
+
+* Graphical interface (not console-based)
+* Two-player mode (Player X vs Player O)
+* Simple, clean, and beginner-friendly code
+* Shows win/draw messages
+* Replay option after each match
+
+---
+
+## 🖥️ How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YourUsername/tic-tac-toe-python.git
+   ```
+2. Navigate into the project folder:
+
+   ```bash
+   cd tic-tac-toe-python
+   ```
+3. Run the game:
+
+   ```bash
+   python tic_tac_toe.py
+   ```
+
+---
+
+## 📸 Screenshot (Optional)
+
+*Add a screenshot of your game window here.*
+For example:
+
+```
+![Tic Tac Toe Screenshot](screenshot.png)
+```
+
+---
+
+## 📚 Technologies Used
+
+* Python 3
+* Tkinter (for GUI)
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! Feel free to fork this project and improve the game.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the [MIT License](LICENSE).
